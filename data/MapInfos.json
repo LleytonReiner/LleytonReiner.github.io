@@ -4,5 +4,5 @@ null,
 {"id":2,"expanded":true,"name":"iHouse","order":2,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":true,"name":"Basement","order":3,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"Well Map","order":5,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Beach","order":4,"parentId":3,"scrollX":459,"scrollY":312.5}
+{"id":5,"expanded":false,"name":"Beach","order":4,"parentId":3,"scrollX":819,"scrollY":461}
 ]
