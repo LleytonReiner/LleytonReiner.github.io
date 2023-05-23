@@ -1,7 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[{"code":31,"dataId":5,"value":1}],"initialLevel":2,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guy","nickname":"Person","note":"","profile":""},
-{"id":3,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":2,"equips":[2,1,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Person","nickname":"Somebody","note":"","profile":""},
-{"id":4,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":4,"equips":[4,0,2,3,4],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Somebody","nickname":"Nothing","note":"","profile":""}
+{"id":1,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":11,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"My Character","characterIndex":0,"characterName":"My Character","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"My Character","traits":[],"initialLevel":99,"maxLevel":99,"name":"Wizard Person","nickname":"Hot Person","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,4],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"Person","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"My Character 2","characterIndex":0,"characterName":"My Character 2","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"My Character 2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Someone","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_8","characterIndex":0,"characterName":"Nature","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[{"code":51,"dataId":3,"value":1},{"code":52,"dataId":3,"value":1},{"code":53,"dataId":2,"value":1},{"code":54,"dataId":3,"value":1},{"code":55,"dataId":0,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Buda Dawg","nickname":"Woof","note":"","profile":""}
 ]
